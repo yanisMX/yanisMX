@@ -1,4 +1,6 @@
-👋 Hi, I’m @yanisMX 🥷🏾
+ Hi, I’m @yanisMX 🥷🏾
+    French 
+ 📍 Bordeaux
 
 
 
