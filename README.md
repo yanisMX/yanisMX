@@ -1,7 +1,7 @@
-##Hi, I’m @yanisMX 🥷🏾
- YANIS MOHAMED 
-    French 
- 📍 Bordeaux
+Hi, I’m @yanisMX 🥷🏾
+French JS developer
+Next | React | Node 
+📍 Bordeaux
 
 
 
